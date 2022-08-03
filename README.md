@@ -3,4 +3,4 @@ The Global Superstore Dashboard provides a comprehensive view of total sales per
 
 Below is the screenshot of the dashboard I created: 
 
-<img width="623" alt="image" src="https://user-images.githubusercontent.com/100240248/182710543-b23a4784-06d1-4c4b-9944-af625fd58902.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/100240248/182710543-b23a4784-06d1-4c4b-9944-af625fd58902.png">
